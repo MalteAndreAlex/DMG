@@ -64,5 +64,5 @@ public class Damage {
     private String description;
     private Room room;
     private User user;
-    private
+    private String FickDichGit;
 }
